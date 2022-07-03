@@ -1,4 +1,4 @@
-module 2d-game
+module world
 
 go 1.18
 
